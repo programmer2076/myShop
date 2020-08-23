@@ -1,0 +1,19 @@
+.pointer{
+    cursor: pointer;
+}
+/* Search Program */
+#searchRetData{
+    position:absolute;
+    right:0;
+    left:69.3%;
+    z-index: 3;
+    padding-left:10px;
+    /*overflow:scroll;*/
+}
+
+#formDesign{
+    background: -webkit-linear-gradient(#443c3f, rgba(0, 54, 21, 0.18));
+}
+#formDesign label{
+    color:white;
+}

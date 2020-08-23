@@ -1,0 +1,21 @@
+html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif;}
+
+w3-sidebar {
+    z-index: 0;
+    width: 250px;
+    top: 45px;
+    bottom: 0;
+    height: inherit;
+}
+
+.bk-user{
+    color:white;
+    background: -webkit-linear-gradient(rgba(2, 28, 33, 0.85), rgba(98, 87, 91, 0.45));-webkit-background-clip: content-box;
+}
+.bk-edit-user{
+    color:white;
+    background: -webkit-linear-gradient(rgba(2, 28, 33, 0.91), rgba(98, 87, 91, 0.87));-webkit-background-clip: content-box;
+}
+.bk-user .bk-user-name{
+    background: -webkit-linear-gradient(#ff001b, #ffffff);-webkit-background-clip: text;-webkit-text-fill-color: transparent;
+}
